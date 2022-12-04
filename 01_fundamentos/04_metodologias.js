@@ -15,4 +15,5 @@
  * - Planear los momentos importantes (responsables)
  * - División por sprints
  * - Podemos plantear pruebas y opciones tentativas
+ * - LO MAS IMPORTANTE ES EL FEEDBACK
  * */
