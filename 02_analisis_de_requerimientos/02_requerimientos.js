@@ -39,7 +39,7 @@
  *
  *
  * REQUERIMIENTOS SIGNIFICATIVOS
- * - Agrupan a los requerimientos FUNCIONALES y NO FUNCIONES
+ * - Agrupan a los requerimientos FUNCIONALES y NO FUNCIONALESES
  *
  *
  *
